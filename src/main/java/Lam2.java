@@ -30,7 +30,7 @@ public final class Lam2 {
         System.out.println(iterator2);
 
         ListIterator<String> iterator3 = list.listIterator();
-        iterator3.sort(String::compareToIgnoreCase);
+//        iterator3.sort(String::compareToIgnoreCase);
 
     }
 

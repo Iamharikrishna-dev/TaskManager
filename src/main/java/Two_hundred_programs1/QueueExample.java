@@ -1,0 +1,3 @@
+package Two_hundred_programs1;
+
+import java.util.*; public class QueueExample { public static void main(String[] args) { Queue<Integer> q=new LinkedList<>();q.offer(10);q.offer(20);System.out.println(q.poll()); } }
